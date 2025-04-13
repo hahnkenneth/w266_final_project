@@ -1,2 +1,2 @@
 # w266_final_project
-AI Text Detector for Social Media Posts
+AI Text Detector for Social Media Posts. The `/code` directory was the code we used to get the results for the various models used in the report. Because the data that we used was too big for github, we instead included the notebooks that we used to gather, generate, and compile the data and placed those notebooks in the `/data` directory. The report for this project is named `w266_Final_Project.pdf`
